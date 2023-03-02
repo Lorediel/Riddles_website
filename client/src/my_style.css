@@ -1,0 +1,12 @@
+.bigSpinner {
+    width: 5rem;
+    height: 5rem;
+}
+
+.rotated {
+    transform: scale(-1, -1);
+}
+
+.no-padding {
+    padding:0;
+}
