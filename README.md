@@ -1,5 +1,8 @@
-# Exam #2: "Indovinelli"
-## Student: s296273 D'Amico Lorenzo 
+# "Indovinelli"
+
+Piattaforma web basata sugli inovinelli
+
+![Screenshot](./img/screenshotRisposta.png)
 
 ## React Client Application Routes
 
@@ -146,11 +149,6 @@ Ogni secondo fa una richiesta al server per ottenere il timer aggiornato. Il tim
 - `RisposteIndovinelloAperto` (in `IndovinelloPages.js`): Componente che mostra le rispsoste date a un indovinello in tempo reale
 - `FormIndovinelloAperto` (in `IndovinelloPages.js`) Componente che mostra un form per rispondere a un indovinello. Il form viene disabilitato nel caso l'indovinello diventi chiuso (tempo scaduto oppure un altro user risponde correttamente). Vengono mostrati i suggerimenti se il timer scende sotto il 50% e il 25%.
 Viene mostrato l'esito della risposta nel caso in cui l'utente risponda. Se l'utente ha già risposto al posto del form appare un avviso.
-
-
-## Screenshot
-
-![Screenshot](./img/screenshotRisposta.png)
 
 ## Users Credentials
 
